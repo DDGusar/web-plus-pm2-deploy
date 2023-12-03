@@ -133,7 +133,7 @@ class Api {
 }
 // Замените на адрес вашего бэкенда
 const api = new Api(
-  'http://api.mesto.ddgusar.nomoredomainsmonster.ru'
+  'https://api.mesto.ddgusar.nomoredomainsmonster.ru'
 );
 
 export default api;
